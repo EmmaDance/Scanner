@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Uni/Anul 3/Sem 1/FLCD/Lab1/flcd/main.cpp
+iostream
+-
+map
+-
+string
+-
+fstream
+-
+vector
+-
+bits/stdc++.h
+-
+regex
+-
+

@@ -1,0 +1,16 @@
+int main() {
+    int i = -52;
+    char c = 'a';
+    int a[2] = {0, 1, 2};
+    int j;
+    cin >> j;
+
+    while (i<j){
+        i = i+1;
+        if (j-i <= 10) {
+            cout << -i;
+        }
+    }
+    cout << a[0];
+    cout<< -2;
+}
